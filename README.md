@@ -17,16 +17,3 @@ Matplotlib, Seaborn: Data visualization and charting.
 Jupyter Notebooks: Interactive data exploration and experimentation.
 GitHub Actions: Continuous integration and automated workflows.
 
-#Usage
-To explore the project and run the analysis locally:
-
-Clone the Repository:
-
-git clone https://github.com/your-username/diabetes-patients-project.git
-Install Dependencies:
-
-pip install -r requirements.txt
-
-
-Run Jupyter Notebooks:
-jupyter notebook
