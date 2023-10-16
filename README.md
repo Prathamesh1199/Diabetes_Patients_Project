@@ -9,7 +9,7 @@ Predictive Modeling: Develop predictive models to forecast diabetes-related outc
 Visualizations: Utilize interactive visualizations to present data insights effectively.
 Data Privacy: Ensure privacy and confidentiality in handling patient data following industry standards and regulations.
 
-#Technologies Used
+#Technologies Used:
 Python: Data analysis, machine learning modeling, and scripting.
 Pandas, NumPy: Data manipulation and analysis.
 Scikit-Learn: Machine learning algorithms and predictive modeling.
